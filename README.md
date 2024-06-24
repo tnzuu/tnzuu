@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tnzuu
-- 👀 I’m interested in python
-- 🌱 I’m currently learning html
+- 👀 I’m learning python
 
 <!---
 tnzuu/tnzuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
